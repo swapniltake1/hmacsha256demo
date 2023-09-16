@@ -1,4 +1,4 @@
-![login succesfull](https://github.com/swapniltake1/hmacsha256demo/assets/61576958/08a6c28d-670d-4b38-88fe-c2342596fb53)**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
+**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
 
@@ -49,4 +49,7 @@ Now that you're more familiar with your Bitbucket repository, go ahead and add a
 
 
 
+![login succesfull](https://github.com/swapniltake1/hmacsha256demo/assets/61576958/c3fe9dd1-7c69-4444-842a-f0ae746c3a6d)
+
+![Key Generationn](https://github.com/swapniltake1/hmacsha256demo/assets/61576958/90d61bd8-03d6-490d-9183-6f8fa256d50f)
 
